@@ -11,6 +11,18 @@
     margin-top: 16px;
 }
 
+#beef {
+    background-color: tomato;
+}
+
+#chicken {
+    background-color: navajowhite;
+}
+
+#fish {
+    background-color: paleturquoise;
+}
+
 .title {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 21px;
@@ -20,13 +32,12 @@
     margin: 0px;
     padding: 5px;
     border: 1px solid black;
-    background-color: burlywood;
     position: absolute;
     right: 0;
 }
 
 .information-container {
-    background-color: gray;
+    background-color: rosybrown;
     margin: 8px 4px;
     position: relative;
 }
